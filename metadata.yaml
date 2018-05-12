@@ -1,0 +1,31 @@
+_repo: Anahuac---or-Mexico-and-the-Mexicans-Ancient-and-Modern_13115
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tylor, Edward B. (Edward Burnett)
+    aliases:
+    - Tylor, Edward Burnett
+    - Tylor, E. B. (Edward Burnett)
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '4841'
+    url: http://www.gutenberg.org/2009/agents/4841
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Burnett_Tylor
+description: ''
+gutenberg_issued: '2004-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1201'
+- !lcsh 'Mexico -- Antiquities'
+- !lcsh 'Mexico -- Description and travel'
+title: 'Anahuac : or, Mexico and the Mexicans, Ancient and Modern'
+url: http://www.gutenberg.org/ebooks/13115
